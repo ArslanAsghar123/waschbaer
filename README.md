@@ -1,1 +1,1 @@
-# Waschbär Admin Panel - Updated Build
+# Waschbär Admin Panel - Clean Build
